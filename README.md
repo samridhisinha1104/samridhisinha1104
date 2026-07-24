@@ -83,23 +83,7 @@
 
 <br>
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
 
-<h2 align="center">✨ Featured Projects</h2>
-
-<p align="center">
-
-🚺 <b>Women Safety Tracker</b><br><br>
-
-🧠 <b>AURA – Emotion & Stress Detection</b><br><br>
-
-📊 <b>UIDAI Analytics Dashboard</b><br><br>
-
-⚡ <b>Backend Student Registration API</b>
-
-</p>
-
-<br>
 
 <!-- ==================== CONNECT ==================== -->
 

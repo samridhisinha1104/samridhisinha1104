@@ -1,10 +1,11 @@
 <!-- ==================== BANNER ==================== -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=C97E8F&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%7C+Data+Science+%7C+Software+Development;Building+thoughtful+software%2C+one+project+at+a+time."/>
 </p>
 
 <p align="center">
-  <img src="./banner.png" alt="Samridhi Banner" width="100%">
+  <img src="./banner.gif" alt="Samridhi Banner" width="100%">
 </p>
 
 <br>
@@ -21,6 +22,10 @@
   <i>Building thoughtful software, one project at a time.</i>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samridhisinha1104&label=Profile%20Views&color=E9A5C9&style=flat"/>
+</p>
+
 <br>
 
 <!-- ==================== ABOUT ==================== -->
@@ -28,18 +33,14 @@
 <h2 align="center">💻 About Me</h2>
 
 <p align="center">
-  <img src="./terminal.png" alt="About Me Terminal" width="85%">
+  <img src="./terminal.gif" alt="About Me Terminal" width="85%">
 </p>
 
 <br>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=samridhisinha1104&label=Profile%20Views&color=E9A5C9&style=flat"/>
-</p>
+
 <!-- ==================== TECH STACK ==================== -->
 
 <h2 align="center">🌸 Tech Stack</h2>
-
-
 
 <div align="center">
 
@@ -52,6 +53,7 @@
 ### 🚀 Frameworks
 
 <img src="https://skillicons.dev/icons?i=flutter,fastapi,flask&theme=light" />
+
 <br>
 
 ### 🗄️ Databases
@@ -79,11 +81,25 @@
 
 </div>
 
-<br><br>
-<!-- ==================== GITHUB STATS ==================== -->
+<br>
 
+<!-- ==================== FEATURED PROJECTS ==================== -->
 
+<h2 align="center">✨ Featured Projects</h2>
 
+<p align="center">
+
+🚺 <b>Women Safety Tracker</b><br><br>
+
+🧠 <b>AURA – Emotion & Stress Detection</b><br><br>
+
+📊 <b>UIDAI Analytics Dashboard</b><br><br>
+
+⚡ <b>Backend Student Registration API</b>
+
+</p>
+
+<br>
 
 <!-- ==================== CONNECT ==================== -->
 
@@ -104,6 +120,7 @@
 </a>
 
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=EBD9FF&height=120&section=footer"/>
 </p>

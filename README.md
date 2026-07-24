@@ -14,19 +14,7 @@
   Hi, I'm Samridhi 🌸
 </h1>
 
-<p align="center">
-  <b>Computer Science Student</b> • AI • Data Science • Software Development
-</p>
 
-<p align="center">
-  <i>Building thoughtful software, one project at a time.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samridhisinha1104&label=Profile%20Views&color=E9A5C9&style=flat"/>
-</p>
-
-<br>
 
 <!-- ==================== ABOUT ==================== -->
 
